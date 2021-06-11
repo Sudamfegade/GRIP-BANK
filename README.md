@@ -22,3 +22,4 @@ other free hosting provider. Check in code in gitlab.
 ●BOOTSTRAP
 ●PHP
 ●MYSQL
+LINK : http://localhost/BBS/
